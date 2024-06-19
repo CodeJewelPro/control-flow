@@ -94,5 +94,5 @@ console.error(error.message);
 }
 
 // ** SOURCES **//
-// https://gist.github.com/CodeJewelPro/68fe55e6aec0bdc8ec3ff79a12a093c7 - Worked with a friend he shared some of the stuff we disscused on github 
+// https://gist.github.com/CodeJewelPro/68fe55e6aec0bdc8ec3ff79a12a093c7 - Worked with a friend who is tutoring me he shared some of the stuff we disscused on github 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
